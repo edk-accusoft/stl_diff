@@ -1,11 +1,5 @@
 solid MYSOLID created by IVCON, original data in binary/pr2_head_pan.stl
-  facet normal -0.761249 0.041314 -0.647143
-    outer loop
-      vertex -0.075633 -0.095256 -0.057711
-      vertex -0.078756 -0.079398 -0.053025
-      vertex -0.074338 -0.088143 -0.058780
-    endloop
-  endfacet
+  
   facet normal -0.898450 -0.047969 -0.436447
     outer loop
       vertex -0.075633 -0.095256 -0.057711
